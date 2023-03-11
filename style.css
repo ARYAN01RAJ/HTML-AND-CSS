@@ -1,0 +1,38 @@
+body
+{ 
+  font-family: algerian, sans-serif;
+  }
+h1
+{background-color: ff1500;
+color: 80ff00;
+font-size: 70px;
+padding: 30px;
+display: flex;
+justify-content: center;
+}
+#first-para{
+font-family: arial, sans-serif;
+font-size: 35px;
+color: red;
+}
+.top{
+font-size: 40px;
+color: FF0080;
+}
+.first{
+font-size: 30px;
+color: magenta;
+}
+.second{
+font-size: 30px;
+color: red;
+}
+footer{
+font-family: impact;
+text-align: center;
+background-color: FFDD33;
+color: 964B00;
+PADDING: 20PX;
+BORDER: 10PX;
+font-size: 30px;
+}
